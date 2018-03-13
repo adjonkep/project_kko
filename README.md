@@ -23,3 +23,9 @@ Then Its show me a text summarizing my trip, the allowances I want to sell and t
 If i check the radio buttons and press the button, I'm invited to sign in if i already have an account or to sign up otherwise.
 Once done, I'm redirected to a kind of check out page where I need to give proof of having already purchased my ticket. 
 After that I'm redirected to a confirmation page where my trip is summarized and I'm told where and when is the appointment to pick up the luggage. An email is also sent to me.
+After I've accepted the prices before the signin invitation, There are two option to choose I can choose
+Add passenger & Add Trip
+If I choose Add passenger, I'l just have to choose the class and the allowances I want to sell for that passenger. In my account, I could link that passenger to a list of passengers already there or create a new one. And I'll also be asked his flight ticket.
+Note that all passengers, myself including should send us their passport
+
+If I choose the Add Trip option, I'll check a radio button to confirm the same cities, the same flights and classes, otherwise the process will restart. But this time The informations of the previous trips will be on the right
